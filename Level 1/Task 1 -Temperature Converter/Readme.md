@@ -17,7 +17,7 @@ Welcome to the Temperature Converter program! This application allows you to con
 
 To convert Celsius to Fahrenheit, you can use the following formula:
 
-\[ \text{Temperature in degrees Fahrenheit (°F)} = (\text{Temperature in degrees Celsius (°C)} \times \frac{9}{5}) + 32 \]
+°F = °C × (9/5) + 32
 
 **Steps to Convert Celsius to Fahrenheit:**
 
@@ -30,7 +30,7 @@ To convert Celsius to Fahrenheit, you can use the following formula:
 
 Convert 20° Celsius to Fahrenheit:
 
-\[ \text{°F} = 20 \times \left(\frac{9}{5}\right) + 32 = 36 + 32 = 68°\text{F} \]
+°F = 20 × (9/5) + 32 = 36 + 32 = 68°F. 
 
 Therefore, 20° Celsius is equal to 68° Fahrenheit (20°C = 68°F).
 
@@ -38,7 +38,7 @@ Therefore, 20° Celsius is equal to 68° Fahrenheit (20°C = 68°F).
 
 To convert Fahrenheit to Celsius, you can use the following formula:
 
-\[ \text{°C} = (\text{°F} - 32) \times \frac{5}{9} \]
+°C = (°F - 32) × 5/9. 
 
 **Steps to Convert Fahrenheit to Celsius:**
 
@@ -50,17 +50,18 @@ To convert Fahrenheit to Celsius, you can use the following formula:
 
 1. **Convert 350° Fahrenheit to Celsius:**
 
-\[ \text{°C} = (\text{350°} - 32) \times \frac{5}{9} = 176.7°\text{C} \]
+°C = (350° - 32) × 5/9 = 176.7°C
+
 
 2. **Convert 0° Fahrenheit to Celsius:**
 
-\[ \text{°C} = (\text{0°} - 32) \times \frac{5}{9} = -17.8°\text{C} \]
+°C = (°F - 32) × 5/9 = (0° - 32) × 5/9 = -17.8°C
 
 ## How to Use the Program
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TemperatureConverter.git
+    git clone  https://github.com/Dhyanesh02/Cognify-Java-Developer-Intern---Projects.git
     cd TemperatureConverter
     ```
 
