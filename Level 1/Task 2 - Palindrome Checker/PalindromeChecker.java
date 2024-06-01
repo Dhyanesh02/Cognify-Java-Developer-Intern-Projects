@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class PalindromeChecker {
 
   public static boolean isPalindrome(String w) {
@@ -38,11 +37,11 @@ public class PalindromeChecker {
       System.out.print("Enter a word or phrase: ");
       String word = input.nextLine();
       if (isPalindrome(word))
-        System.out.println("Palindrom " + word);
+        System.out.println(word+ " is a Palindrome ");
       else
-        System.out.println("Not a palindrom");
+        System.out.println("Not a Palindrome");
       System.out.print("To check next word/phrase enter (yes/no): ");
-      String choice = input.next().toLowerCase();
+      String choice = input.nextLine().toLowerCase();
       condition = findMore(choice, condition);
       System.out.println("**-------------------------------------**");
     }
