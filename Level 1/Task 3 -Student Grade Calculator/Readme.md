@@ -18,31 +18,31 @@ The **Student Grade Calculator** is a simple Java application that calculates an
 
 **Sample Input/Output:** 
 Sample 1
-Input:
-Enter No.of Grades: 3
-Enter Grade 1 : 85
-Enter Grade 2 : 90
-Enter Grade 3 : 78
+- Input:
+- Enter No.of Grades: 3
+- Enter Grade 1 : 85
+- Enter Grade 2 : 90
+- Enter Grade 3 : 78
 
 Output:
-Total of Grades: 253
-Average of the grades: 84.33333333333333
-Do you want to calculate grade for another student (yes/no): no
-Thanks for using Student Grade Calculator!!
+- Total of Grades: 253
+- Average of the grades: 84.33333333333333
+- Do you want to calculate grade for another student (yes/no): no
+- Thanks for using Student Grade Calculator!!
 *****************************************************************
 Sample 2
-Input:
-Enter No.of Grades: 4
-Enter Grade 1 : 70
-Enter Grade 2 : 75
-Enter Grade 3 : 80
-Enter Grade 4 : 85
+- Input:
+- Enter No.of Grades: 4
+- Enter Grade 1 : 70
+- Enter Grade 2 : 75
+- Enter Grade 3 : 80
+- Enter Grade 4 : 85
 
 Output:
-Total of Grades: 310
-Average of the grades: 77.5
-Do you want to calculate grade for another student (yes/no): yes
+- Total of Grades: 310
+- Average of the grades: 77.5
+- Do you want to calculate grade for another student (yes/no): yes
 *****************************************************************
-Enter No.of Grades: 2
-Enter Grade 1 : 88
-Enter Grade 2 : 92
+- Enter No.of Grades: 2
+- Enter Grade 1 : 88
+- Enter Grade 2 : 92
