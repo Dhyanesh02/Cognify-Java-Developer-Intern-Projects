@@ -47,7 +47,7 @@ public class StudentGradeCalculator {
       int totalGrade = gettotalGrades(grades);
       System.out.println("Total of Grades: " + totalGrade);
       double averageGrade = getAverage(totalGrade, noOfGrades);
-      System.out.println("Average of the grades: " + averageGrade);
+      System.out.printf("Average of the grades: %.2f%n",averageGrade);
 
       System.out.print("Do you want to calculate grade for another student (yes/no): ");
       String choice = input.next().toLowerCase();
