@@ -1,48 +1,15 @@
-# Student Grade Calculator
-
-## Overview
-The **Student Grade Calculator** is a simple Java application that calculates and displays the average grade of a student. Users can input multiple grades, calculate the total and average, and decide whether to continue calculating for another student.
+# Random Password Generator
 
 ## Features
-- Input multiple grades for a student.
-- Calculate the total of the entered grades.
-- Calculate the average grade.
-- Option to continue calculating grades for additional students.
-
+- Prompts the user to specify the desired length of the password.
+- Allows the user to choose whether to include numbers, lowercase letters, uppercase letters, and special characters in the password.
+-  Generates a random password based on the user's specifications.
+-  Displays the generated password to the user.
+-  Supports continuous password generation until the user decides to stop.
 ## Task Description
-**Task:** Student Grade Calculator
+**Task 4:** Random Password Generator
 
-**Description:** Create a program that calculates and displays the average grade of a student. Prompt the user to enter the number of grades to be entered, and then input each grade. Calculate the average and display it to the user.
+**Description:** This Java program generates a random password for the user based on their specifications. The user is prompted to enter the desired length of the password and specify whether it should include numbers, lowercase letters, uppercase letters, and special characters. The program then generates the password accordingly and displays it to the user.
 
-**Skills:** Loops, arrays, basic arithmetic operations.
 
-**Sample Input/Output:** 
-Sample 1
-- Input:
-- Enter No.of Grades: 3
-- Enter Grade 1 : 85
-- Enter Grade 2 : 90
-- Enter Grade 3 : 78
-
-Output:
-- Total of Grades: 253
-- Average of the grades: 84.33333333333333
-- Do you want to calculate grade for another student (yes/no): no
-- Thanks for using Student Grade Calculator!!
-*****************************************************************
-Sample 2
-- Input:
-- Enter No.of Grades: 4
-- Enter Grade 1 : 70
-- Enter Grade 2 : 75
-- Enter Grade 3 : 80
-- Enter Grade 4 : 85
-
-Output:
-- Total of Grades: 310
-- Average of the grades: 77.5
-- Do you want to calculate grade for another student (yes/no): yes
-*****************************************************************
-- Enter No.of Grades: 2
-- Enter Grade 1 : 88
-- Enter Grade 2 : 92
+**Skills:** Random number generation, stringmanipulation, user input.

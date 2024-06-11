@@ -37,7 +37,7 @@ public class PasswordGenerator {
   }
   public static void main(String[] args) {
 
-    System.out.println("***************************Welcome to Password Generator!***************************");
+    System.out.println("***************************Welcome to Random Password Generator!***************************");
     Scanner input = new Scanner(System.in);
 
     boolean generatePassword = true;
